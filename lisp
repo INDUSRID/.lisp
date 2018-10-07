@@ -1,4 +1,8 @@
 # .lisp
+;;farmer-wolf-goat-cabbage problem in lisp
+
+;;
+
 (defun river-fwgc (state goal) (path state goal nil))
 
 
